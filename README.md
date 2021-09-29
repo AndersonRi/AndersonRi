@@ -1,6 +1,7 @@
 ### Olá! Eu sou o Anderson Ricardo 👋
-👩‍💻 Estudante Front-End Firjan-senai
+👩‍💻 Estudante Front-End -- Firjan-senai
 😄 Ingles-Avançado
+🖥️ Tec Informática -- Faetec
 
 
 [![Whatsaap](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white
